@@ -13,8 +13,8 @@ A simple React component that displays a greeting message with a name passed as 
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/display-name-component.git
-cd display-name-component
+git clone https://github.com/milindkusahu/display-name.git
+cd display-name
 ```
 
 2. Install dependencies:
@@ -50,4 +50,4 @@ function App() {
 
 ## Deployment
 
-This project is deployed on Netlify. and can be accessed at .
+This project is deployed on Netlify. and can be accessed at [https://display-names.netlify.app](https://display-names.netlify.app/ "Live Link").
